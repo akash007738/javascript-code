@@ -15,5 +15,5 @@ function findLargest(arr){
     return largest
 }
 
-const arr = [12,34,2,2,11,69,23,33,43,55]
+const arr = [12,34,2,2,11,69,23,33,43]
 console.log(findLargest(arr))
